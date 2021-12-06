@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <key>When do you need the NeedIt completed?</key>
+        <language>en</language>
+        <message>When do you need the NeedIt completed?</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 17:37:28</sys_created_on>
+        <sys_id>94bcb9cd2f500110db9ebcb62799b67f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>When do you need the NeedIt completed?</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_312191_needit_vi">f62a57442f140110db9ebcb62799b6eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">f62a57442f140110db9ebcb62799b6eb</sys_scope>
+        <sys_update_name>sys_ui_message_94bcb9cd2f500110db9ebcb62799b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 17:37:28</sys_updated_on>
+    </sys_ui_message>
+</record_update>
